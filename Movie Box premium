@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "latestVersionCode": 2,
   "latestVersionName": "1.1",
   "title": "UPDATE AVAILABLE",
   "message": "Get the newest features and improvements.",
-  "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "Add Ur Channel link"
+  "UpdateButtonText": "UPDATE NOW",
+  "UpdateButtonUrl": "https://t.me/AnmolTechYTOfficial"
 }
